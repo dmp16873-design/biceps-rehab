@@ -1,0 +1,16 @@
+{
+  "name": "BicepsRehab — реабилитация",
+  "short_name": "BicepsRehab",
+  "description": "Реабилитация после операции дистального бицепса: программа по фазам, видео упражнений, отчёт врачу.",
+  "lang": "ru",
+  "start_url": "/biceps-rehab/",
+  "scope": "/biceps-rehab/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "icons": [
+    { "src": "/biceps-rehab/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/biceps-rehab/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
